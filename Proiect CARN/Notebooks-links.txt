@@ -1,0 +1,2 @@
+Last notebook:https://www.kaggle.com/code/andreimurgulet/fork-of-carn-proj/edit/run/291150864
+Notebook with clean data try: https://www.kaggle.com/code/andreimurgulet/carn-proj/edit/run/290972292
